@@ -1,5 +1,7 @@
 import ProductCard from "../components/ProductCard";
 
+
+//SSG / SSR
 const getProducts = async () => {
     const res = await fetch('http://localhost:5000/products', 
         {cache:'no-store'});

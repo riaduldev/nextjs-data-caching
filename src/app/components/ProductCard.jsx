@@ -1,6 +1,10 @@
+'use client'
+import useUser from "../hooks/useUser";
 
 const ProductCard = ({product}) => {
     const {name, description} = product;
+    const user = useUser();
+    console.log(user, 'user from productcard');
     return (
         <div className="card bg-base-100 shadow-sm">
   <div className="card-body">
