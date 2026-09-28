@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The book",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 12.99,
+      "rating": 4.7,
+      "publishedYear": 1988,
+      "pages": 208,
+      "language": "English",
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "description": "A young shepherd travels in search of a treasure and discovers the importance of following his dreams."
+    },
+    {
+      "id": 2,
+      "title": "Atomic Gobet",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "price": 18.50,
+      "rating": 4.8,
+      "publishedYear": 2018,
+      "pages": 320,
+      "language": "English",
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "description": "A practical guide to building good habits, breaking bad ones, and making small improvements every day."
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "category": "Finance",
+      "price": 15.99,
+      "rating": 4.6,
+      "publishedYear": 1997,
+      "pages": 336,
+      "language": "English",
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "description": "A personal finance book that explores different attitudes toward money, investing, and financial independence."
+    },
+    {
+      "id": 4,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 29.99,
+      "rating": 4.5,
+      "publishedYear": 2008,
+      "pages": 464,
+      "language": "English",
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "description": "A guide to writing readable, maintainable, and professional-quality software code."
+    },
+    {
+      "id": 5,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 17.99,
+      "rating": 4.8,
+      "publishedYear": 2020,
+      "pages": 256,
+      "language": "English",
+      "inStock": false,
+      "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6",
+      "description": "A collection of lessons about how people think about money, wealth, investing, and financial decisions."
+    },
+    {
+      "id": 6,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 16.75,
+      "rating": 4.6,
+      "publishedYear": 2016,
+      "pages": 304,
+      "language": "English",
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc",
+      "description": "A guide to developing focused work habits and producing valuable results in a distracted world."
+    }
+  ]
+}
